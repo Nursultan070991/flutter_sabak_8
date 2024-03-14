@@ -1,0 +1,16 @@
+{
+         "dart.flutterAdbConnectOnChromeOs": true,
+         "dart.offline": true,
+         "dart.debugExternalPackageLibraries": true,
+         "dart.debugSdkLibraries": true,
+         "dart.showDebuggerNumbersAsHex": true,
+         "dart.allowTestsOutsideTestFolder": true,
+         "dart.experimentalRefactors": true,
+         "dart.normalizeFileCasing": true,
+         "dart.previewCommitCharacters": true,
+         "dart.previewFlutterUiGuides": true,
+         "dart.previewFlutterUiGuidesCustomTracking": true,
+         "dart.previewHotReloadOnSaveWatcher": true,
+         "dart.useLegacyAnalyzerProtocol": true,
+         "dart.onlyAnalyzeProjectsWithOpenFiles": true
+}
